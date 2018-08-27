@@ -3,7 +3,7 @@
 
 A paid project I did for a company in Russia
 
-The way to install and actually see the Landing Page I have created.
+The way to install and actually see the Deposit Page I have created.
 
 Steps:
 
